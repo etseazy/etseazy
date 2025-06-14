@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-API-lightblue?style=flat)
+![Machine Learning](https://img.shields.io/badge/ML-Linear_Regression-orange)
+![Automation](https://img.shields.io/badge/Automation-Tally-green)
+
 # Hi, I’m Etseazy 👋
 
 🎓 Computer Science undergrad | 🤖 Aspiring AI Engineer | 🇮🇳 India  
@@ -41,4 +47,4 @@ Beginner-friendly project to demonstrate how basic ML models can assist educator
 
 ---
 
-> _“Building things that solve problems is what drives me.”_  
+> _“Building things that solve problems is what drives me.”_
