@@ -41,8 +41,8 @@ Beginner-friendly project to demonstrate how basic ML models can assist educator
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/etseazy/) *(Add yours here)*
-- 📧 [Email me](mailto:youremail@example.com) *(Optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreyas-sharma-65170928b/)
+- 📧 [Email me](mailto:shreyassharma@outlook.com) 
 - 💻 [My Portfolio ]
 
 ---
